@@ -1,0 +1,164 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Formularioculturageneral
+</name>
+</assembly>
+<members>
+<member name="P:Formularioculturageneral.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_14">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_15">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_17">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_18">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_23">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_26">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_261">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_27">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_29">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_301">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_51">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_71">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN_FORMULARIO_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Formularioculturageneral.My.Resources.Resources.IMAGEN8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Formularioculturageneral.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

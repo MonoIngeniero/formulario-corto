@@ -18,13 +18,7 @@ El proyecto fue realizado como práctica de desarrollo de interfaces gráficas, 
 
 ---
 
-## Tecnologías utilizadas
 
-- Visual Basic .NET
-- Windows Forms
-- Visual Studio
-
----
 
 ## Conceptos aplicados
 
